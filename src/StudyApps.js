@@ -10,6 +10,7 @@ const TabsDemo = () => (
     <Tab>HRC</Tab>
     <Tab>Hand2Note</Tab>
     <Tab>ICMizer</Tab>
+    <Tab>Solvers</Tab>
     <Tab>GTOBase</Tab>
     <Tab>Odin</Tab>
     <Tab>BBZ Preflop Charts</Tab>
@@ -57,7 +58,10 @@ or use this code at checkout: H2N10QMJ
 <p>Used it for many years in the past, but I don't really see much reason to use it now when HRC can do so much more.
 </p> </TabPanel>
     <TabPanel>
-<p>If you are serious with poker, you should eventually get one of these, but it is not the priority in the beginning. Especially if you are not experienced, it is pretty much guaranteed that you will use bad inputs in your sims, therefore creating bad solutions. So training in premade spots in DTO or GTO Wizard will be easier way to study.
+<p>PioSolver, SimplePostflop, GTO+ - If you are serious with poker, you should eventually get one of these, but it is not the priority in the beginning. Especially if you are not experienced, it is pretty much guaranteed that you will use bad inputs in your sims, therefore creating bad solutions. So training in premade spots in DTO or GTO Wizard will be easier way to study.
+</p> </TabPanel>
+    <TabPanel>
+<p>This tool with preflop charts and solved postflop spots is from the people behind Simple Poker products, so you know it can't be bad. It is a little more limited than for example GTO Wizard and I do have issues with some of the settings, but it has one huge advantage - all the MTT spots are completely free! I am not even sure why. I guess they just want to get more popular and start charging money later? Definitely try it out.
 </p> </TabPanel>
     <TabPanel>
 <p>Basically worse GTO Wizard with stupidly huge numbers of flop sizings and questionable accuracy of solves.</p><p>A lot of high profile players shill Odin but I don't see that many solid regs actually using it.
