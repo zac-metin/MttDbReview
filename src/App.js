@@ -27,11 +27,11 @@ function App() {
         <Section id="Pricing">
           <Card />
         </Section>
-        <Section id="Study Apps">
-          <StudyApps />
-        </Section>
         <Section id="FAQ">
             <FAQ />
+        </Section>
+        <Section id="Study Apps">
+          <StudyApps />
         </Section>
       </ReactPageScroller>
 

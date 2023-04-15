@@ -35,8 +35,22 @@
   font-size: 3rem;
 }
 
+.Testimonials {
+    display: grid;
+    grid-template-rows: 1fr 1fr 4fr 4fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    gap: 0px 10px;
+    width: 95vw;
+    margin: auto;
+}
+
+.Testimonials .SectionHeader,
+.Testimonials p {
+  grid-column: span 2;
+}
+
 .Testimonial {
-  height: 20vh;
+
 }
 
 
